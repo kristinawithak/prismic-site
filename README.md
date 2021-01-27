@@ -1,10 +1,4 @@
-# Prismic Nuxt.js Example Blog
-
-> [Nuxt.js](https://nuxtjs.org) example blog project with content managed in [Prismic](https://prismic.io)
-
-## Check out our article for a step by step guide to getting this project up and running
-
-> [Prismic project guide](https://user-guides.prismic.io/examples/nuxt-js-samples/create-a-sample-blog-with-prismic-and-nuxt)
+# Website with Prismic / Nuxt.js
 
 ## Launch this project in your local environment
 
